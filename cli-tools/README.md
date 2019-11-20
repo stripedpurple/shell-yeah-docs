@@ -4,14 +4,4 @@ As a software engineer, system administrator, or command line enthusiest you kno
 
 ## Tool List
 
-<ul>
-    <li v-for="tool in $site.pages.filter(x => x.path.match(/\/cli-tools\/.*\.html/))"><a :href="tool.path">{{ tool.title }}</a></li>
-</ul>
-
-<!-- <script>
-    export defaults = {
-        data() {
-            tools: $page
-        }
-    }
-</script> -->
+<SubDirs />
