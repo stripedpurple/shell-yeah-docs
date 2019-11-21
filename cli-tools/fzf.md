@@ -1,9 +1,10 @@
 ---
 tags: ["fzf", "cli", "search"]
 ---
-# fzf - A command-line fuzzy finder
 
 <TagLinks />
+
+# fzf - A command-line fuzzy finder
 
 ## TL,DR
 [FZF](https://github.com/junegunn/fzf) makes searching and filtering list quick and easy. Try the following command.
@@ -18,7 +19,7 @@ Start typing and watch the magic happen.
 
 ## Deep Dive
 
-:::note 
+:::tip NOTE
 The following was pulled from the fzf readme.md
 :::
 
@@ -123,8 +124,7 @@ If you learn by watching videos, check out this screencast by [@samoshkin](https
 Examples
 --------
 
-Many useful examples can be found on [the wiki
-page](https://github.com/junegunn/fzf/wiki/examples). Feel free to add your
+Many useful examples can be found on [the wiki page](https://github.com/junegunn/fzf/wiki/examples). Feel free to add your
 own as well.
 
 `fzf-tmux` script
