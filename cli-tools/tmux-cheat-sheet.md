@@ -2,9 +2,9 @@
 tags: ["tmux","cli"]
 ---
 
-<TagLinks />
-
 # Tmux Cheat Sheet
+
+<TagLinks />
 
 ## Sessions
 

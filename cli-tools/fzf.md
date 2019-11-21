@@ -2,9 +2,9 @@
 tags: ["fzf", "cli", "search"]
 ---
 
-<TagLinks />
-
 # fzf - A command-line fuzzy finder
+
+<TagLinks />
 
 ## TL,DR
 [FZF](https://github.com/junegunn/fzf) makes searching and filtering list quick and easy. Try the following command.

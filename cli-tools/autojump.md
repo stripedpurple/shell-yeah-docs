@@ -2,9 +2,9 @@
 tags: ["cd","jump","file-system"]
 ---
 
-<TagLinks />
-
 # autojump - a faster way to navigate your filesystem
+
+<TagLinks />
 
 [autojump](https://github.com/wting/autojump) is a faster way to navigate your filesystem. It works by
 maintaining a database of the directories you use the most from the

@@ -2,9 +2,9 @@
 tags: ["cli", "jump", "cd", "file-system"]
 ---
 
-<TagLinks />
-
 # z - jump around
+
+<TagLinks />
 
 
 If you find yourself cd-ing to the same directories all the time then [*z*](https://github.com/rupa/z) is the command for you. After installing *z* start cd-ing around. After a sometime *z* will have enough data to start jumping around.
